@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link type="text/css" rel="stylesheet" href="Css/AdminHeader_link.css" />
+</head>
+
+<body>
+	<header>
+    	<div>
+        <img src="uploads/prologo.jpg" height="120px" width="150" />
+        </div>
+        
+        <nav class="fun">
+        <ul>
+        	<li><a href="UserRegistration.php">Sign Up</a></li>
+        	<li><a href="AdminLogin.php">Logout</a></li>
+            <li><a href="UserLogin.php">Login</a></li>
+            <li><a href="index.php">Home</a></li>
+        </ul>
+        </nav>
+    </header>
+</body>
+</html>
